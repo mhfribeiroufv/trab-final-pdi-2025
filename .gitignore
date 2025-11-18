@@ -1,0 +1,10 @@
+# Checkpoints automáticos do Jupyter
+.ipynb_checkpoints/
+
+# Caches Python
+__pycache__/
+*.pyc
+
+# Arquivos temporários
+*.tmp
+*.log
